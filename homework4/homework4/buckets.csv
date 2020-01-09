@@ -1,0 +1,1729 @@
+Type,Distribution,K,N,Dimensions,Time
+Dumb,gaussian,10,1024,2,0.00107976
+Dumb,gaussian,25,1024,2,0.00108584
+Dumb,gaussian,50,1024,2,0.00108419
+Dumb,gaussian,75,1024,2,0.00122096
+Dumb,gaussian,100,1024,2,0.00111009
+Dumb,gaussian,125,1024,2,0.00117775
+Dumb,gaussian,150,1024,2,0.00135819
+Dumb,gaussian,175,1024,2,0.00106628
+Dumb,gaussian,200,1024,2,0.00122285
+Buckets,gaussian,10,1024,2,0.000403919
+Buckets,gaussian,25,1024,2,0.000784054
+Buckets,gaussian,50,1024,2,0.000684308
+Buckets,gaussian,75,1024,2,0.00108003
+Buckets,gaussian,100,1024,2,0.000783853
+Buckets,gaussian,125,1024,2,0.000913801
+Buckets,gaussian,150,1024,2,0.000498928
+Buckets,gaussian,175,1024,2,0.00073695
+Buckets,gaussian,200,1024,2,0.00120423
+Buckets,gaussian,10,1024,3,0.000505446
+Buckets,gaussian,25,1024,3,0.00153854
+Buckets,gaussian,50,1024,3,0.000844336
+Buckets,gaussian,75,1024,3,0.00158591
+Buckets,gaussian,100,1024,3,0.00262701
+Buckets,gaussian,125,1024,3,0.00388675
+Buckets,gaussian,150,1024,3,0.00181431
+Buckets,gaussian,175,1024,3,0.00212994
+Buckets,gaussian,200,1024,3,0.00201344
+Buckets,gaussian,10,1024,10,7.23797
+Buckets,gaussian,25,1024,10,7.25249
+Buckets,gaussian,50,1024,10,7.21126
+Buckets,gaussian,75,1024,10,7.2722
+Buckets,gaussian,100,1024,10,7.24354
+Buckets,gaussian,125,1024,10,7.22492
+Buckets,gaussian,150,1024,10,7.30255
+Buckets,gaussian,175,1024,10,7.19674
+Buckets,gaussian,200,1024,10,7.22842
+Quad Tree,gaussian,10,1024,2,0.000366436
+Quad Tree,gaussian,25,1024,2,0.000439114
+Quad Tree,gaussian,50,1024,2,0.000539149
+Quad Tree,gaussian,75,1024,2,0.00053502
+Quad Tree,gaussian,100,1024,2,0.000777411
+Quad Tree,gaussian,125,1024,2,0.00101384
+Quad Tree,gaussian,150,1024,2,0.000565082
+Quad Tree,gaussian,175,1024,2,0.000867858
+Quad Tree,gaussian,200,1024,2,0.00105327
+KD Tree,gaussian,10,1024,2,0.000317558
+KD Tree,gaussian,25,1024,2,0.000448336
+KD Tree,gaussian,50,1024,2,0.000482163
+KD Tree,gaussian,75,1024,2,0.000755882
+KD Tree,gaussian,100,1024,2,0.000686495
+KD Tree,gaussian,125,1024,2,0.00083711
+KD Tree,gaussian,150,1024,2,0.00115104
+KD Tree,gaussian,175,1024,2,0.0013747
+KD Tree,gaussian,200,1024,2,0.00128508
+KD Tree,gaussian,10,1024,3,0.000387487
+KD Tree,gaussian,25,1024,3,0.000608337
+KD Tree,gaussian,50,1024,3,0.000707609
+KD Tree,gaussian,75,1024,3,0.000916006
+KD Tree,gaussian,100,1024,3,0.000864814
+KD Tree,gaussian,125,1024,3,0.00132539
+KD Tree,gaussian,150,1024,3,0.00121324
+KD Tree,gaussian,175,1024,3,0.00111721
+KD Tree,gaussian,200,1024,3,0.00153222
+KD Tree,gaussian,10,1024,10,0.0009327
+KD Tree,gaussian,25,1024,10,0.00127179
+KD Tree,gaussian,50,1024,10,0.00171513
+KD Tree,gaussian,75,1024,10,0.00234027
+KD Tree,gaussian,100,1024,10,0.00238536
+KD Tree,gaussian,125,1024,10,0.00285429
+KD Tree,gaussian,150,1024,10,0.00340574
+KD Tree,gaussian,175,1024,10,0.00380185
+KD Tree,gaussian,200,1024,10,0.00370125
+Dumb,gaussian,10,2048,2,0.00239303
+Dumb,gaussian,25,2048,2,0.00234229
+Dumb,gaussian,50,2048,2,0.00234307
+Dumb,gaussian,75,2048,2,0.00233582
+Dumb,gaussian,100,2048,2,0.00233254
+Dumb,gaussian,125,2048,2,0.00233275
+Dumb,gaussian,150,2048,2,0.00239107
+Dumb,gaussian,175,2048,2,0.00230877
+Dumb,gaussian,200,2048,2,0.00251011
+Buckets,gaussian,10,2048,2,0.00121714
+Buckets,gaussian,25,2048,2,0.00235531
+Buckets,gaussian,50,2048,2,0.00216667
+Buckets,gaussian,75,2048,2,0.00207461
+Buckets,gaussian,100,2048,2,0.00263032
+Buckets,gaussian,125,2048,2,0.0021618
+Buckets,gaussian,150,2048,2,0.00107739
+Buckets,gaussian,175,2048,2,0.0024464
+Buckets,gaussian,200,2048,2,0.00133201
+Buckets,gaussian,10,2048,3,0.00181608
+Buckets,gaussian,25,2048,3,0.00202668
+Buckets,gaussian,50,2048,3,0.0033285
+Buckets,gaussian,75,2048,3,0.000933104
+Buckets,gaussian,100,2048,3,0.00225439
+Buckets,gaussian,125,2048,3,0.00230913
+Buckets,gaussian,150,2048,3,0.000746098
+Buckets,gaussian,175,2048,3,0.00115032
+Buckets,gaussian,200,2048,3,0.00367108
+Buckets,gaussian,10,2048,10,7.40247
+Buckets,gaussian,25,2048,10,7.33322
+Buckets,gaussian,50,2048,10,7.84894
+Buckets,gaussian,75,2048,10,7.77063
+Buckets,gaussian,100,2048,10,7.17252
+Buckets,gaussian,125,2048,10,7.23087
+Buckets,gaussian,150,2048,10,7.23887
+Buckets,gaussian,175,2048,10,7.2817
+Buckets,gaussian,200,2048,10,7.23304
+Quad Tree,gaussian,10,2048,2,0.000404674
+Quad Tree,gaussian,25,2048,2,0.000799861
+Quad Tree,gaussian,50,2048,2,0.000932302
+Quad Tree,gaussian,75,2048,2,0.0014209
+Quad Tree,gaussian,100,2048,2,0.00132915
+Quad Tree,gaussian,125,2048,2,0.00111314
+Quad Tree,gaussian,150,2048,2,0.00167622
+Quad Tree,gaussian,175,2048,2,0.00207406
+Quad Tree,gaussian,200,2048,2,0.00129358
+KD Tree,gaussian,10,2048,2,0.000525269
+KD Tree,gaussian,25,2048,2,0.000792834
+KD Tree,gaussian,50,2048,2,0.000794962
+KD Tree,gaussian,75,2048,2,0.00116701
+KD Tree,gaussian,100,2048,2,0.00166624
+KD Tree,gaussian,125,2048,2,0.000867821
+KD Tree,gaussian,150,2048,2,0.00162273
+KD Tree,gaussian,175,2048,2,0.00125087
+KD Tree,gaussian,200,2048,2,0.00151354
+KD Tree,gaussian,10,2048,3,0.000608574
+KD Tree,gaussian,25,2048,3,0.000877407
+KD Tree,gaussian,50,2048,3,0.000993043
+KD Tree,gaussian,75,2048,3,0.00126645
+KD Tree,gaussian,100,2048,3,0.00142521
+KD Tree,gaussian,125,2048,3,0.00197427
+KD Tree,gaussian,150,2048,3,0.00179199
+KD Tree,gaussian,175,2048,3,0.00202648
+KD Tree,gaussian,200,2048,3,0.00206356
+KD Tree,gaussian,10,2048,10,0.00161696
+KD Tree,gaussian,25,2048,10,0.00208544
+KD Tree,gaussian,50,2048,10,0.00241189
+KD Tree,gaussian,75,2048,10,0.0032752
+KD Tree,gaussian,100,2048,10,0.00332232
+KD Tree,gaussian,125,2048,10,0.00420813
+KD Tree,gaussian,150,2048,10,0.00437
+KD Tree,gaussian,175,2048,10,0.00560022
+KD Tree,gaussian,200,2048,10,0.00528967
+Dumb,gaussian,10,4096,2,0.00518083
+Dumb,gaussian,25,4096,2,0.00511488
+Dumb,gaussian,50,4096,2,0.00504057
+Dumb,gaussian,75,4096,2,0.00503113
+Dumb,gaussian,100,4096,2,0.00536717
+Dumb,gaussian,125,4096,2,0.00524345
+Dumb,gaussian,150,4096,2,0.00512264
+Dumb,gaussian,175,4096,2,0.00517905
+Dumb,gaussian,200,4096,2,0.00509543
+Buckets,gaussian,10,4096,2,0.00368994
+Buckets,gaussian,25,4096,2,0.00511208
+Buckets,gaussian,50,4096,2,0.00296689
+Buckets,gaussian,75,4096,2,0.00474774
+Buckets,gaussian,100,4096,2,0.00380686
+Buckets,gaussian,125,4096,2,0.00252726
+Buckets,gaussian,150,4096,2,0.0047286
+Buckets,gaussian,175,4096,2,0.00448765
+Buckets,gaussian,200,4096,2,0.00314154
+Buckets,gaussian,10,4096,3,0.00439073
+Buckets,gaussian,25,4096,3,0.00331979
+Buckets,gaussian,50,4096,3,0.00323116
+Buckets,gaussian,75,4096,3,0.0055718
+Buckets,gaussian,100,4096,3,0.00406113
+Buckets,gaussian,125,4096,3,0.00550197
+Buckets,gaussian,150,4096,3,0.00774874
+Buckets,gaussian,175,4096,3,0.00383545
+Buckets,gaussian,200,4096,3,0.00601099
+Buckets,gaussian,10,4096,10,7.38089
+Buckets,gaussian,25,4096,10,7.2696
+Buckets,gaussian,50,4096,10,7.18607
+Buckets,gaussian,75,4096,10,7.17961
+Buckets,gaussian,100,4096,10,7.26685
+Buckets,gaussian,125,4096,10,7.21609
+Buckets,gaussian,150,4096,10,7.23425
+Buckets,gaussian,175,4096,10,7.19793
+Buckets,gaussian,200,4096,10,7.29117
+Quad Tree,gaussian,10,4096,2,0.000973995
+Quad Tree,gaussian,25,4096,2,0.00132802
+Quad Tree,gaussian,50,4096,2,0.0010969
+Quad Tree,gaussian,75,4096,2,0.00223779
+Quad Tree,gaussian,100,4096,2,0.00234094
+Quad Tree,gaussian,125,4096,2,0.00223117
+Quad Tree,gaussian,150,4096,2,0.00235281
+Quad Tree,gaussian,175,4096,2,0.00324043
+Quad Tree,gaussian,200,4096,2,0.00203711
+KD Tree,gaussian,10,4096,2,0.000964021
+KD Tree,gaussian,25,4096,2,0.0012935
+KD Tree,gaussian,50,4096,2,0.0013483
+KD Tree,gaussian,75,4096,2,0.00170978
+KD Tree,gaussian,100,4096,2,0.00149695
+KD Tree,gaussian,125,4096,2,0.00110913
+KD Tree,gaussian,150,4096,2,0.00271719
+KD Tree,gaussian,175,4096,2,0.0032144
+KD Tree,gaussian,200,4096,2,0.00371099
+KD Tree,gaussian,10,4096,3,0.00112995
+KD Tree,gaussian,25,4096,3,0.00129007
+KD Tree,gaussian,50,4096,3,0.001665
+KD Tree,gaussian,75,4096,3,0.0020515
+KD Tree,gaussian,100,4096,3,0.00241796
+KD Tree,gaussian,125,4096,3,0.00267351
+KD Tree,gaussian,150,4096,3,0.00247227
+KD Tree,gaussian,175,4096,3,0.00300536
+KD Tree,gaussian,200,4096,3,0.00355731
+KD Tree,gaussian,10,4096,10,0.0033775
+KD Tree,gaussian,25,4096,10,0.0033896
+KD Tree,gaussian,50,4096,10,0.00412451
+KD Tree,gaussian,75,4096,10,0.00438851
+KD Tree,gaussian,100,4096,10,0.0057023
+KD Tree,gaussian,125,4096,10,0.0057645
+KD Tree,gaussian,150,4096,10,0.00668424
+KD Tree,gaussian,175,4096,10,0.00757512
+KD Tree,gaussian,200,4096,10,0.00786986
+Dumb,gaussian,10,8192,2,0.0121695
+Dumb,gaussian,25,8192,2,0.0115189
+Dumb,gaussian,50,8192,2,0.0129057
+Dumb,gaussian,75,8192,2,0.0162995
+Dumb,gaussian,100,8192,2,0.0160936
+Dumb,gaussian,125,8192,2,0.0134648
+Dumb,gaussian,150,8192,2,0.0123344
+Dumb,gaussian,175,8192,2,0.0117989
+Dumb,gaussian,200,8192,2,0.0114704
+Buckets,gaussian,10,8192,2,0.0119394
+Buckets,gaussian,25,8192,2,0.0143148
+Buckets,gaussian,50,8192,2,0.00876557
+Buckets,gaussian,75,8192,2,0.0109542
+Buckets,gaussian,100,8192,2,0.00795094
+Buckets,gaussian,125,8192,2,0.0207498
+Buckets,gaussian,150,8192,2,0.0149637
+Buckets,gaussian,175,8192,2,0.012187
+Buckets,gaussian,200,8192,2,0.00829114
+Buckets,gaussian,10,8192,3,0.00888447
+Buckets,gaussian,25,8192,3,0.0132427
+Buckets,gaussian,50,8192,3,0.00855658
+Buckets,gaussian,75,8192,3,0.00709774
+Buckets,gaussian,100,8192,3,0.0096283
+Buckets,gaussian,125,8192,3,0.0105299
+Buckets,gaussian,150,8192,3,0.0100821
+Buckets,gaussian,175,8192,3,0.00662135
+Buckets,gaussian,200,8192,3,0.00908774
+Buckets,gaussian,10,8192,10,4.87537
+Buckets,gaussian,25,8192,10,7.32995
+Buckets,gaussian,50,8192,10,7.39078
+Buckets,gaussian,75,8192,10,7.37738
+Buckets,gaussian,100,8192,10,7.34221
+Buckets,gaussian,125,8192,10,7.35219
+Buckets,gaussian,150,8192,10,7.25964
+Buckets,gaussian,175,8192,10,7.23496
+Buckets,gaussian,200,8192,10,7.33786
+Quad Tree,gaussian,10,8192,2,0.00208763
+Quad Tree,gaussian,25,8192,2,0.00230251
+Quad Tree,gaussian,50,8192,2,0.00187359
+Quad Tree,gaussian,75,8192,2,0.00330085
+Quad Tree,gaussian,100,8192,2,0.0022281
+Quad Tree,gaussian,125,8192,2,0.0042246
+Quad Tree,gaussian,150,8192,2,0.00468252
+Quad Tree,gaussian,175,8192,2,0.00448512
+Quad Tree,gaussian,200,8192,2,0.00355047
+KD Tree,gaussian,10,8192,2,0.00183605
+KD Tree,gaussian,25,8192,2,0.00201736
+KD Tree,gaussian,50,8192,2,0.0022967
+KD Tree,gaussian,75,8192,2,0.00261325
+KD Tree,gaussian,100,8192,2,0.00434217
+KD Tree,gaussian,125,8192,2,0.00285876
+KD Tree,gaussian,150,8192,2,0.00471418
+KD Tree,gaussian,175,8192,2,0.0057559
+KD Tree,gaussian,200,8192,2,0.0050486
+KD Tree,gaussian,10,8192,3,0.00229524
+KD Tree,gaussian,25,8192,3,0.00259402
+KD Tree,gaussian,50,8192,3,0.00304188
+KD Tree,gaussian,75,8192,3,0.00394796
+KD Tree,gaussian,100,8192,3,0.00300569
+KD Tree,gaussian,125,8192,3,0.00442855
+KD Tree,gaussian,150,8192,3,0.00531703
+KD Tree,gaussian,175,8192,3,0.00521316
+KD Tree,gaussian,200,8192,3,0.0054758
+KD Tree,gaussian,10,8192,10,0.00601842
+KD Tree,gaussian,25,8192,10,0.00669014
+KD Tree,gaussian,50,8192,10,0.007368
+KD Tree,gaussian,75,8192,10,0.00858434
+KD Tree,gaussian,100,8192,10,0.00928735
+KD Tree,gaussian,125,8192,10,0.00990757
+KD Tree,gaussian,150,8192,10,0.0104573
+KD Tree,gaussian,175,8192,10,0.0115502
+KD Tree,gaussian,200,8192,10,0.0104807
+Dumb,gaussian,10,16384,2,0.0246466
+Dumb,gaussian,25,16384,2,0.0244824
+Dumb,gaussian,50,16384,2,0.0239697
+Dumb,gaussian,75,16384,2,0.024326
+Dumb,gaussian,100,16384,2,0.0240528
+Dumb,gaussian,125,16384,2,0.0249014
+Dumb,gaussian,150,16384,2,0.02456
+Dumb,gaussian,175,16384,2,0.0236377
+Dumb,gaussian,200,16384,2,0.0242225
+Buckets,gaussian,10,16384,2,0.0293196
+Buckets,gaussian,25,16384,2,0.012939
+Buckets,gaussian,50,16384,2,0.015772
+Buckets,gaussian,75,16384,2,0.0189085
+Buckets,gaussian,100,16384,2,0.0330966
+Buckets,gaussian,125,16384,2,0.0198089
+Buckets,gaussian,150,16384,2,0.0152133
+Buckets,gaussian,175,16384,2,0.0320292
+Buckets,gaussian,200,16384,2,0.0226272
+Buckets,gaussian,10,16384,3,0.0185009
+Buckets,gaussian,25,16384,3,0.0215484
+Buckets,gaussian,50,16384,3,0.0240555
+Buckets,gaussian,75,16384,3,0.0129268
+Buckets,gaussian,100,16384,3,0.0248908
+Buckets,gaussian,125,16384,3,0.0159269
+Buckets,gaussian,150,16384,3,0.0215676
+Buckets,gaussian,175,16384,3,0.027507
+Buckets,gaussian,200,16384,3,0.0257217
+Buckets,gaussian,10,16384,10,7.54866
+Buckets,gaussian,25,16384,10,7.62267
+Buckets,gaussian,50,16384,10,7.29521
+Buckets,gaussian,75,16384,10,7.34068
+Buckets,gaussian,100,16384,10,7.32403
+Buckets,gaussian,125,16384,10,7.31443
+Buckets,gaussian,150,16384,10,7.27017
+Buckets,gaussian,175,16384,10,7.2715
+Buckets,gaussian,200,16384,10,7.31286
+Quad Tree,gaussian,10,16384,2,0.00349429
+Quad Tree,gaussian,25,16384,2,0.00361596
+Quad Tree,gaussian,50,16384,2,0.00540952
+Quad Tree,gaussian,75,16384,2,0.00552163
+Quad Tree,gaussian,100,16384,2,0.00590887
+Quad Tree,gaussian,125,16384,2,0.00578043
+Quad Tree,gaussian,150,16384,2,0.00412316
+Quad Tree,gaussian,175,16384,2,0.00584644
+Quad Tree,gaussian,200,16384,2,0.00825245
+KD Tree,gaussian,10,16384,2,0.00313717
+KD Tree,gaussian,25,16384,2,0.00413285
+KD Tree,gaussian,50,16384,2,0.00433971
+KD Tree,gaussian,75,16384,2,0.00589966
+KD Tree,gaussian,100,16384,2,0.00625436
+KD Tree,gaussian,125,16384,2,0.0061808
+KD Tree,gaussian,150,16384,2,0.00684178
+KD Tree,gaussian,175,16384,2,0.0069732
+KD Tree,gaussian,200,16384,2,0.00974496
+KD Tree,gaussian,10,16384,3,0.00393365
+KD Tree,gaussian,25,16384,3,0.00453629
+KD Tree,gaussian,50,16384,3,0.00518306
+KD Tree,gaussian,75,16384,3,0.00640769
+KD Tree,gaussian,100,16384,3,0.00576284
+KD Tree,gaussian,125,16384,3,0.00739462
+KD Tree,gaussian,150,16384,3,0.00669663
+KD Tree,gaussian,175,16384,3,0.0085338
+KD Tree,gaussian,200,16384,3,0.00917963
+KD Tree,gaussian,10,16384,10,0.0116206
+KD Tree,gaussian,25,16384,10,0.012409
+KD Tree,gaussian,50,16384,10,0.0129905
+KD Tree,gaussian,75,16384,10,0.0135455
+KD Tree,gaussian,100,16384,10,0.0154502
+KD Tree,gaussian,125,16384,10,0.0165506
+KD Tree,gaussian,150,16384,10,0.0181192
+KD Tree,gaussian,175,16384,10,0.0172669
+KD Tree,gaussian,200,16384,10,0.018822
+Dumb,gaussian,10,32768,2,0.0511563
+Dumb,gaussian,25,32768,2,0.0513523
+Dumb,gaussian,50,32768,2,0.0500772
+Dumb,gaussian,75,32768,2,0.0513885
+Dumb,gaussian,100,32768,2,0.0520394
+Dumb,gaussian,125,32768,2,0.0507324
+Dumb,gaussian,150,32768,2,0.052394
+Dumb,gaussian,175,32768,2,0.0514094
+Dumb,gaussian,200,32768,2,0.0508866
+Buckets,gaussian,10,32768,2,0.0574183
+Buckets,gaussian,25,32768,2,0.0695471
+Buckets,gaussian,50,32768,2,0.0637529
+Buckets,gaussian,75,32768,2,0.0642849
+Buckets,gaussian,100,32768,2,0.0270647
+Buckets,gaussian,125,32768,2,0.0588611
+Buckets,gaussian,150,32768,2,0.0547026
+Buckets,gaussian,175,32768,2,0.0360657
+Buckets,gaussian,200,32768,2,0.0394739
+Buckets,gaussian,10,32768,3,0.0323751
+Buckets,gaussian,25,32768,3,0.0288855
+Buckets,gaussian,50,32768,3,0.0620902
+Buckets,gaussian,75,32768,3,0.0504453
+Buckets,gaussian,100,32768,3,0.0473013
+Buckets,gaussian,125,32768,3,0.0253603
+Buckets,gaussian,150,32768,3,0.0362208
+Buckets,gaussian,175,32768,3,0.0507926
+Buckets,gaussian,200,32768,3,0.0622182
+Buckets,gaussian,10,32768,10,0.10085
+Buckets,gaussian,25,32768,10,2.61977
+Buckets,gaussian,50,32768,10,7.54582
+Buckets,gaussian,75,32768,10,7.61957
+Buckets,gaussian,100,32768,10,7.58458
+Buckets,gaussian,125,32768,10,7.59258
+Buckets,gaussian,150,32768,10,7.58434
+Buckets,gaussian,175,32768,10,7.56846
+Buckets,gaussian,200,32768,10,7.55187
+Quad Tree,gaussian,10,32768,2,0.00630833
+Quad Tree,gaussian,25,32768,2,0.00739988
+Quad Tree,gaussian,50,32768,2,0.0061621
+Quad Tree,gaussian,75,32768,2,0.009568
+Quad Tree,gaussian,100,32768,2,0.00905163
+Quad Tree,gaussian,125,32768,2,0.0126446
+Quad Tree,gaussian,150,32768,2,0.00909928
+Quad Tree,gaussian,175,32768,2,0.0129433
+Quad Tree,gaussian,200,32768,2,0.00895369
+KD Tree,gaussian,10,32768,2,0.00578273
+KD Tree,gaussian,25,32768,2,0.00790379
+KD Tree,gaussian,50,32768,2,0.00809561
+KD Tree,gaussian,75,32768,2,0.00963626
+KD Tree,gaussian,100,32768,2,0.012557
+KD Tree,gaussian,125,32768,2,0.0123023
+KD Tree,gaussian,150,32768,2,0.0153545
+KD Tree,gaussian,175,32768,2,0.0124033
+KD Tree,gaussian,200,32768,2,0.0149405
+KD Tree,gaussian,10,32768,3,0.00815678
+KD Tree,gaussian,25,32768,3,0.00849682
+KD Tree,gaussian,50,32768,3,0.00939848
+KD Tree,gaussian,75,32768,3,0.00944531
+KD Tree,gaussian,100,32768,3,0.00930199
+KD Tree,gaussian,125,32768,3,0.0109004
+KD Tree,gaussian,150,32768,3,0.0107788
+KD Tree,gaussian,175,32768,3,0.0125502
+KD Tree,gaussian,200,32768,3,0.0121275
+KD Tree,gaussian,10,32768,10,0.0230325
+KD Tree,gaussian,25,32768,10,0.0232279
+KD Tree,gaussian,50,32768,10,0.0239923
+KD Tree,gaussian,75,32768,10,0.0271231
+KD Tree,gaussian,100,32768,10,0.0261249
+KD Tree,gaussian,125,32768,10,0.0277989
+KD Tree,gaussian,150,32768,10,0.0289142
+KD Tree,gaussian,175,32768,10,0.0293841
+KD Tree,gaussian,200,32768,10,0.0314743
+Dumb,gaussian,10,65536,2,0.109067
+Dumb,gaussian,25,65536,2,0.109956
+Dumb,gaussian,50,65536,2,0.110022
+Dumb,gaussian,75,65536,2,0.109768
+Dumb,gaussian,100,65536,2,0.108452
+Dumb,gaussian,125,65536,2,0.10982
+Dumb,gaussian,150,65536,2,0.107982
+Dumb,gaussian,175,65536,2,0.109648
+Dumb,gaussian,200,65536,2,0.11312
+Buckets,gaussian,10,65536,2,0.168423
+Buckets,gaussian,25,65536,2,0.036098
+Buckets,gaussian,50,65536,2,0.120425
+Buckets,gaussian,75,65536,2,0.136842
+Buckets,gaussian,100,65536,2,0.110292
+Buckets,gaussian,125,65536,2,0.124082
+Buckets,gaussian,150,65536,2,0.116367
+Buckets,gaussian,175,65536,2,0.121217
+Buckets,gaussian,200,65536,2,0.0921536
+Buckets,gaussian,10,65536,3,0.0775351
+Buckets,gaussian,25,65536,3,0.12693
+Buckets,gaussian,50,65536,3,0.054637
+Buckets,gaussian,75,65536,3,0.0698855
+Buckets,gaussian,100,65536,3,0.152202
+Buckets,gaussian,125,65536,3,0.152829
+Buckets,gaussian,150,65536,3,0.119582
+Buckets,gaussian,175,65536,3,0.112498
+Buckets,gaussian,200,65536,3,0.0734722
+Buckets,gaussian,10,65536,10,0.143937
+Buckets,gaussian,25,65536,10,0.11529
+Buckets,gaussian,50,65536,10,2.79203
+Buckets,gaussian,75,65536,10,2.76725
+Buckets,gaussian,100,65536,10,5.43126
+Buckets,gaussian,125,65536,10,5.45471
+Buckets,gaussian,150,65536,10,5.53128
+Buckets,gaussian,175,65536,10,5.54303
+Buckets,gaussian,200,65536,10,8.21124
+Quad Tree,gaussian,10,65536,2,0.0126312
+Quad Tree,gaussian,25,65536,2,0.0128892
+Quad Tree,gaussian,50,65536,2,0.0142846
+Quad Tree,gaussian,75,65536,2,0.0160241
+Quad Tree,gaussian,100,65536,2,0.017337
+Quad Tree,gaussian,125,65536,2,0.0181726
+Quad Tree,gaussian,150,65536,2,0.015418
+Quad Tree,gaussian,175,65536,2,0.0238428
+Quad Tree,gaussian,200,65536,2,0.0231915
+KD Tree,gaussian,10,65536,2,0.0115087
+KD Tree,gaussian,25,65536,2,0.0133172
+KD Tree,gaussian,50,65536,2,0.01666
+KD Tree,gaussian,75,65536,2,0.0185327
+KD Tree,gaussian,100,65536,2,0.0173591
+KD Tree,gaussian,125,65536,2,0.0179433
+KD Tree,gaussian,150,65536,2,0.0209434
+KD Tree,gaussian,175,65536,2,0.0208903
+KD Tree,gaussian,200,65536,2,0.0213832
+KD Tree,gaussian,10,65536,3,0.0148896
+KD Tree,gaussian,25,65536,3,0.0151154
+KD Tree,gaussian,50,65536,3,0.0172358
+KD Tree,gaussian,75,65536,3,0.0174913
+KD Tree,gaussian,100,65536,3,0.0191987
+KD Tree,gaussian,125,65536,3,0.0180999
+KD Tree,gaussian,150,65536,3,0.0188205
+KD Tree,gaussian,175,65536,3,0.02072
+KD Tree,gaussian,200,65536,3,0.0226997
+KD Tree,gaussian,10,65536,10,0.0458634
+KD Tree,gaussian,25,65536,10,0.0471721
+KD Tree,gaussian,50,65536,10,0.0472318
+KD Tree,gaussian,75,65536,10,0.0500874
+KD Tree,gaussian,100,65536,10,0.0521375
+KD Tree,gaussian,125,65536,10,0.0500506
+KD Tree,gaussian,150,65536,10,0.0530109
+KD Tree,gaussian,175,65536,10,0.0540582
+KD Tree,gaussian,200,65536,10,0.0546885
+Dumb,gaussian,10,131072,2,0.229888
+Dumb,gaussian,25,131072,2,0.230742
+Dumb,gaussian,50,131072,2,0.233328
+Dumb,gaussian,75,131072,2,0.232187
+Dumb,gaussian,100,131072,2,0.231607
+Dumb,gaussian,125,131072,2,0.231645
+Dumb,gaussian,150,131072,2,0.23031
+Dumb,gaussian,175,131072,2,0.230973
+Dumb,gaussian,200,131072,2,0.234874
+Buckets,gaussian,10,131072,2,0.292966
+Buckets,gaussian,25,131072,2,0.290086
+Buckets,gaussian,50,131072,2,0.38445
+Buckets,gaussian,75,131072,2,0.228673
+Buckets,gaussian,100,131072,2,0.335486
+Buckets,gaussian,125,131072,2,0.391762
+Buckets,gaussian,150,131072,2,0.244126
+Buckets,gaussian,175,131072,2,0.29055
+Buckets,gaussian,200,131072,2,0.270353
+Buckets,gaussian,10,131072,3,0.363946
+Buckets,gaussian,25,131072,3,0.306196
+Buckets,gaussian,50,131072,3,0.219215
+Buckets,gaussian,75,131072,3,0.127853
+Buckets,gaussian,100,131072,3,0.288646
+Buckets,gaussian,125,131072,3,0.341612
+Buckets,gaussian,150,131072,3,0.312848
+Buckets,gaussian,175,131072,3,0.17997
+Buckets,gaussian,200,131072,3,0.266935
+Buckets,gaussian,10,131072,10,0.0732402
+Buckets,gaussian,25,131072,10,0.101462
+Buckets,gaussian,50,131072,10,3.18463
+Buckets,gaussian,75,131072,10,3.20253
+Buckets,gaussian,100,131072,10,6.24398
+Buckets,gaussian,125,131072,10,6.29998
+Buckets,gaussian,150,131072,10,6.27834
+Buckets,gaussian,175,131072,10,9.31211
+Buckets,gaussian,200,131072,10,9.30685
+Quad Tree,gaussian,10,131072,2,0.0245168
+Quad Tree,gaussian,25,131072,2,0.0256223
+Quad Tree,gaussian,50,131072,2,0.0290746
+Quad Tree,gaussian,75,131072,2,0.0274653
+Quad Tree,gaussian,100,131072,2,0.0301544
+Quad Tree,gaussian,125,131072,2,0.0292615
+Quad Tree,gaussian,150,131072,2,0.0346303
+Quad Tree,gaussian,175,131072,2,0.0343789
+Quad Tree,gaussian,200,131072,2,0.0410834
+KD Tree,gaussian,10,131072,2,0.0204941
+KD Tree,gaussian,25,131072,2,0.0250669
+KD Tree,gaussian,50,131072,2,0.0273792
+KD Tree,gaussian,75,131072,2,0.0285403
+KD Tree,gaussian,100,131072,2,0.0284141
+KD Tree,gaussian,125,131072,2,0.0301485
+KD Tree,gaussian,150,131072,2,0.0334518
+KD Tree,gaussian,175,131072,2,0.0405298
+KD Tree,gaussian,200,131072,2,0.0335173
+KD Tree,gaussian,10,131072,3,0.0303185
+KD Tree,gaussian,25,131072,3,0.0278458
+KD Tree,gaussian,50,131072,3,0.0315616
+KD Tree,gaussian,75,131072,3,0.0322355
+KD Tree,gaussian,100,131072,3,0.0325564
+KD Tree,gaussian,125,131072,3,0.0349616
+KD Tree,gaussian,150,131072,3,0.03851
+KD Tree,gaussian,175,131072,3,0.0424399
+KD Tree,gaussian,200,131072,3,0.0377798
+KD Tree,gaussian,10,131072,10,0.0925326
+KD Tree,gaussian,25,131072,10,0.0945512
+KD Tree,gaussian,50,131072,10,0.0932409
+KD Tree,gaussian,75,131072,10,0.0964168
+KD Tree,gaussian,100,131072,10,0.0985078
+KD Tree,gaussian,125,131072,10,0.0981459
+KD Tree,gaussian,150,131072,10,0.0998331
+KD Tree,gaussian,175,131072,10,0.0998852
+KD Tree,gaussian,200,131072,10,0.101564
+Dumb,gaussian,10,262144,2,0.484886
+Dumb,gaussian,25,262144,2,0.500373
+Dumb,gaussian,50,262144,2,0.492407
+Dumb,gaussian,75,262144,2,0.500533
+Dumb,gaussian,100,262144,2,0.491943
+Dumb,gaussian,125,262144,2,0.496981
+Dumb,gaussian,150,262144,2,0.499823
+Dumb,gaussian,175,262144,2,0.500446
+Dumb,gaussian,200,262144,2,0.493428
+Buckets,gaussian,10,262144,2,0.67041
+Buckets,gaussian,25,262144,2,0.580763
+Buckets,gaussian,50,262144,2,0.202973
+Buckets,gaussian,75,262144,2,0.560488
+Buckets,gaussian,100,262144,2,0.444866
+Buckets,gaussian,125,262144,2,0.66394
+Buckets,gaussian,150,262144,2,0.816906
+Buckets,gaussian,175,262144,2,0.65105
+Buckets,gaussian,200,262144,2,0.677531
+Buckets,gaussian,10,262144,3,0.502278
+Buckets,gaussian,25,262144,3,0.411723
+Buckets,gaussian,50,262144,3,0.487529
+Buckets,gaussian,75,262144,3,0.403999
+Buckets,gaussian,100,262144,3,0.514626
+Buckets,gaussian,125,262144,3,0.557594
+Buckets,gaussian,150,262144,3,0.727017
+Buckets,gaussian,175,262144,3,0.433883
+Buckets,gaussian,200,262144,3,0.390774
+Buckets,gaussian,10,262144,10,0.203103
+Buckets,gaussian,25,262144,10,0.14079
+Buckets,gaussian,50,262144,10,0.272031
+Buckets,gaussian,75,262144,10,0.148525
+Buckets,gaussian,100,262144,10,4.15957
+Buckets,gaussian,125,262144,10,0.224702
+Buckets,gaussian,150,262144,10,4.18519
+Buckets,gaussian,175,262144,10,7.98873
+Buckets,gaussian,200,262144,10,4.02677
+Quad Tree,gaussian,10,262144,2,0.0469255
+Quad Tree,gaussian,25,262144,2,0.0520972
+Quad Tree,gaussian,50,262144,2,0.0516514
+Quad Tree,gaussian,75,262144,2,0.0538106
+Quad Tree,gaussian,100,262144,2,0.0575827
+Quad Tree,gaussian,125,262144,2,0.0538791
+Quad Tree,gaussian,150,262144,2,0.0588186
+Quad Tree,gaussian,175,262144,2,0.0683799
+Quad Tree,gaussian,200,262144,2,0.0600564
+KD Tree,gaussian,10,262144,2,0.047616
+KD Tree,gaussian,25,262144,2,0.0472261
+KD Tree,gaussian,50,262144,2,0.0468958
+KD Tree,gaussian,75,262144,2,0.0538093
+KD Tree,gaussian,100,262144,2,0.0551994
+KD Tree,gaussian,125,262144,2,0.0553746
+KD Tree,gaussian,150,262144,2,0.0574519
+KD Tree,gaussian,175,262144,2,0.0700786
+KD Tree,gaussian,200,262144,2,0.0666626
+KD Tree,gaussian,10,262144,3,0.0597936
+KD Tree,gaussian,25,262144,3,0.0600102
+KD Tree,gaussian,50,262144,3,0.0638969
+KD Tree,gaussian,75,262144,3,0.0644414
+KD Tree,gaussian,100,262144,3,0.0664768
+KD Tree,gaussian,125,262144,3,0.062859
+KD Tree,gaussian,150,262144,3,0.0683068
+KD Tree,gaussian,175,262144,3,0.0680808
+KD Tree,gaussian,200,262144,3,0.0697486
+KD Tree,gaussian,10,262144,10,0.186542
+KD Tree,gaussian,25,262144,10,0.184336
+KD Tree,gaussian,50,262144,10,0.187669
+KD Tree,gaussian,75,262144,10,0.187144
+KD Tree,gaussian,100,262144,10,0.187299
+KD Tree,gaussian,125,262144,10,0.189414
+KD Tree,gaussian,150,262144,10,0.193591
+KD Tree,gaussian,175,262144,10,0.187639
+KD Tree,gaussian,200,262144,10,0.193517
+Dumb,gaussian,10,524288,2,1.04741
+Dumb,gaussian,25,524288,2,1.05038
+Dumb,gaussian,50,524288,2,1.0276
+Dumb,gaussian,75,524288,2,1.03944
+Dumb,gaussian,100,524288,2,1.03545
+Dumb,gaussian,125,524288,2,1.04334
+Dumb,gaussian,150,524288,2,1.04036
+Dumb,gaussian,175,524288,2,1.04638
+Dumb,gaussian,200,524288,2,1.04116
+Buckets,gaussian,10,524288,2,1.65821
+Buckets,gaussian,25,524288,2,0.717732
+Buckets,gaussian,50,524288,2,1.25601
+Buckets,gaussian,75,524288,2,1.75846
+Buckets,gaussian,100,524288,2,1.4476
+Buckets,gaussian,125,524288,2,1.11364
+Buckets,gaussian,150,524288,2,1.27254
+Buckets,gaussian,175,524288,2,0.82857
+Buckets,gaussian,200,524288,2,0.870553
+Buckets,gaussian,10,524288,3,0.80939
+Buckets,gaussian,25,524288,3,1.43422
+Buckets,gaussian,50,524288,3,1.41481
+Buckets,gaussian,75,524288,3,1.93158
+Buckets,gaussian,100,524288,3,1.49278
+Buckets,gaussian,125,524288,3,1.85758
+Buckets,gaussian,150,524288,3,1.35348
+Buckets,gaussian,175,524288,3,1.88137
+Buckets,gaussian,200,524288,3,0.854867
+Buckets,gaussian,10,524288,10,0.189868
+Buckets,gaussian,25,524288,10,0.225971
+Buckets,gaussian,50,524288,10,0.257104
+Buckets,gaussian,75,524288,10,5.81639
+Buckets,gaussian,100,524288,10,0.236379
+Buckets,gaussian,125,524288,10,0.241999
+Buckets,gaussian,150,524288,10,5.78805
+Buckets,gaussian,175,524288,10,0.323946
+Buckets,gaussian,200,524288,10,5.91603
+Quad Tree,gaussian,10,524288,2,0.0911396
+Quad Tree,gaussian,25,524288,2,0.0980113
+Quad Tree,gaussian,50,524288,2,0.101059
+Quad Tree,gaussian,75,524288,2,0.0931363
+Quad Tree,gaussian,100,524288,2,0.106524
+Quad Tree,gaussian,125,524288,2,0.115035
+Quad Tree,gaussian,150,524288,2,0.105205
+Quad Tree,gaussian,175,524288,2,0.125273
+Quad Tree,gaussian,200,524288,2,0.106912
+KD Tree,gaussian,10,524288,2,0.0859667
+KD Tree,gaussian,25,524288,2,0.0888121
+KD Tree,gaussian,50,524288,2,0.0967315
+KD Tree,gaussian,75,524288,2,0.101169
+KD Tree,gaussian,100,524288,2,0.0959657
+KD Tree,gaussian,125,524288,2,0.102945
+KD Tree,gaussian,150,524288,2,0.110392
+KD Tree,gaussian,175,524288,2,0.11103
+KD Tree,gaussian,200,524288,2,0.126115
+KD Tree,gaussian,10,524288,3,0.116183
+KD Tree,gaussian,25,524288,3,0.124342
+KD Tree,gaussian,50,524288,3,0.124693
+KD Tree,gaussian,75,524288,3,0.126008
+KD Tree,gaussian,100,524288,3,0.124829
+KD Tree,gaussian,125,524288,3,0.12946
+KD Tree,gaussian,150,524288,3,0.134961
+KD Tree,gaussian,175,524288,3,0.120465
+KD Tree,gaussian,200,524288,3,0.131103
+KD Tree,gaussian,10,524288,10,0.367895
+KD Tree,gaussian,25,524288,10,0.365924
+KD Tree,gaussian,50,524288,10,0.369838
+KD Tree,gaussian,75,524288,10,0.367548
+KD Tree,gaussian,100,524288,10,0.372598
+KD Tree,gaussian,125,524288,10,0.376026
+KD Tree,gaussian,150,524288,10,0.380217
+KD Tree,gaussian,175,524288,10,0.37895
+KD Tree,gaussian,200,524288,10,0.377407
+Dumb,gaussian,10,1048576,2,2.24324
+Dumb,gaussian,25,1048576,2,2.19405
+Dumb,gaussian,50,1048576,2,2.19145
+Dumb,gaussian,75,1048576,2,2.1953
+Dumb,gaussian,100,1048576,2,2.17678
+Dumb,gaussian,125,1048576,2,2.1676
+Dumb,gaussian,150,1048576,2,2.20526
+Dumb,gaussian,175,1048576,2,2.17414
+Dumb,gaussian,200,1048576,2,2.18144
+Buckets,gaussian,10,1048576,2,2.15219
+Buckets,gaussian,25,1048576,2,2.7634
+Buckets,gaussian,50,1048576,2,2.51763
+Buckets,gaussian,75,1048576,2,3.19677
+Buckets,gaussian,100,1048576,2,2.40264
+Buckets,gaussian,125,1048576,2,3.60576
+Buckets,gaussian,150,1048576,2,3.01829
+Buckets,gaussian,175,1048576,2,3.26966
+Buckets,gaussian,200,1048576,2,1.98399
+Buckets,gaussian,10,1048576,3,2.7336
+Buckets,gaussian,25,1048576,3,1.04936
+Buckets,gaussian,50,1048576,3,2.86755
+Buckets,gaussian,75,1048576,3,2.75107
+Buckets,gaussian,100,1048576,3,2.62421
+Buckets,gaussian,125,1048576,3,2.65937
+Buckets,gaussian,150,1048576,3,3.91517
+Buckets,gaussian,175,1048576,3,2.82714
+Buckets,gaussian,200,1048576,3,3.04918
+Buckets,gaussian,10,1048576,10,0.405905
+Buckets,gaussian,25,1048576,10,0.397635
+Buckets,gaussian,50,1048576,10,0.358344
+Buckets,gaussian,75,1048576,10,0.640693
+Buckets,gaussian,100,1048576,10,0.522165
+Buckets,gaussian,125,1048576,10,0.439483
+Buckets,gaussian,150,1048576,10,0.372622
+Buckets,gaussian,175,1048576,10,0.441887
+Buckets,gaussian,200,1048576,10,0.453492
+Quad Tree,gaussian,10,1048576,2,0.178677
+Quad Tree,gaussian,25,1048576,2,0.180999
+Quad Tree,gaussian,50,1048576,2,0.183659
+Quad Tree,gaussian,75,1048576,2,0.191554
+Quad Tree,gaussian,100,1048576,2,0.212724
+Quad Tree,gaussian,125,1048576,2,0.192605
+Quad Tree,gaussian,150,1048576,2,0.187053
+Quad Tree,gaussian,175,1048576,2,0.209882
+Quad Tree,gaussian,200,1048576,2,0.20649
+KD Tree,gaussian,10,1048576,2,0.160055
+KD Tree,gaussian,25,1048576,2,0.180852
+KD Tree,gaussian,50,1048576,2,0.181041
+KD Tree,gaussian,75,1048576,2,0.192841
+KD Tree,gaussian,100,1048576,2,0.187873
+KD Tree,gaussian,125,1048576,2,0.20165
+KD Tree,gaussian,150,1048576,2,0.201991
+KD Tree,gaussian,175,1048576,2,0.205185
+KD Tree,gaussian,200,1048576,2,0.21189
+KD Tree,gaussian,10,1048576,3,0.233094
+KD Tree,gaussian,25,1048576,3,0.237966
+KD Tree,gaussian,50,1048576,3,0.214109
+KD Tree,gaussian,75,1048576,3,0.245913
+KD Tree,gaussian,100,1048576,3,0.225455
+KD Tree,gaussian,125,1048576,3,0.234421
+KD Tree,gaussian,150,1048576,3,0.260117
+KD Tree,gaussian,175,1048576,3,0.21856
+KD Tree,gaussian,200,1048576,3,0.254031
+KD Tree,gaussian,10,1048576,10,0.729894
+KD Tree,gaussian,25,1048576,10,0.728751
+KD Tree,gaussian,50,1048576,10,0.732325
+KD Tree,gaussian,75,1048576,10,0.735137
+KD Tree,gaussian,100,1048576,10,0.739085
+KD Tree,gaussian,125,1048576,10,0.736037
+KD Tree,gaussian,150,1048576,10,0.733776
+KD Tree,gaussian,175,1048576,10,0.737221
+KD Tree,gaussian,200,1048576,10,0.742684
+Dumb,gaussian,10,2097152,2,4.60739
+Dumb,gaussian,25,2097152,2,4.57938
+Dumb,gaussian,50,2097152,2,4.60468
+Dumb,gaussian,75,2097152,2,4.58424
+Dumb,gaussian,100,2097152,2,4.57312
+Dumb,gaussian,125,2097152,2,4.62221
+Dumb,gaussian,150,2097152,2,4.59944
+Dumb,gaussian,175,2097152,2,4.60516
+Dumb,gaussian,200,2097152,2,4.55983
+Buckets,gaussian,10,2097152,2,6.09593
+Buckets,gaussian,25,2097152,2,7.15915
+Buckets,gaussian,50,2097152,2,4.55844
+Buckets,gaussian,75,2097152,2,5.94673
+Buckets,gaussian,100,2097152,2,6.95471
+Buckets,gaussian,125,2097152,2,4.34341
+Buckets,gaussian,150,2097152,2,6.37651
+Buckets,gaussian,175,2097152,2,6.96171
+Buckets,gaussian,200,2097152,2,7.43321
+Buckets,gaussian,10,2097152,3,5.08425
+Buckets,gaussian,25,2097152,3,8.26364
+Buckets,gaussian,50,2097152,3,7.31679
+Buckets,gaussian,75,2097152,3,5.04071
+Buckets,gaussian,100,2097152,3,6.67869
+Buckets,gaussian,125,2097152,3,4.97244
+Buckets,gaussian,150,2097152,3,5.65959
+Buckets,gaussian,175,2097152,3,8.15867
+Buckets,gaussian,200,2097152,3,8.64187
+Buckets,gaussian,10,2097152,10,0.752498
+Buckets,gaussian,25,2097152,10,0.636743
+Buckets,gaussian,50,2097152,10,0.581452
+Buckets,gaussian,75,2097152,10,0.720088
+Buckets,gaussian,100,2097152,10,0.790692
+Buckets,gaussian,125,2097152,10,0.892259
+Buckets,gaussian,150,2097152,10,17.5875
+Buckets,gaussian,175,2097152,10,0.63798
+Buckets,gaussian,200,2097152,10,0.932784
+Quad Tree,gaussian,10,2097152,2,0.35986
+Quad Tree,gaussian,25,2097152,2,0.364824
+Quad Tree,gaussian,50,2097152,2,0.365016
+Quad Tree,gaussian,75,2097152,2,0.378423
+Quad Tree,gaussian,100,2097152,2,0.399601
+Quad Tree,gaussian,125,2097152,2,0.420714
+Quad Tree,gaussian,150,2097152,2,0.408099
+Quad Tree,gaussian,175,2097152,2,0.390722
+Quad Tree,gaussian,200,2097152,2,0.420024
+KD Tree,gaussian,10,2097152,2,0.364465
+KD Tree,gaussian,25,2097152,2,0.319412
+KD Tree,gaussian,50,2097152,2,0.342164
+KD Tree,gaussian,75,2097152,2,0.314493
+KD Tree,gaussian,100,2097152,2,0.385943
+KD Tree,gaussian,125,2097152,2,0.418365
+KD Tree,gaussian,150,2097152,2,0.380874
+KD Tree,gaussian,175,2097152,2,0.412492
+KD Tree,gaussian,200,2097152,2,0.394416
+KD Tree,gaussian,10,2097152,3,0.444743
+KD Tree,gaussian,25,2097152,3,0.469146
+KD Tree,gaussian,50,2097152,3,0.477029
+KD Tree,gaussian,75,2097152,3,0.458821
+KD Tree,gaussian,100,2097152,3,0.431897
+KD Tree,gaussian,125,2097152,3,0.446009
+KD Tree,gaussian,150,2097152,3,0.483877
+KD Tree,gaussian,175,2097152,3,0.477484
+KD Tree,gaussian,200,2097152,3,0.446905
+KD Tree,gaussian,10,2097152,10,1.50883
+KD Tree,gaussian,25,2097152,10,1.49715
+KD Tree,gaussian,50,2097152,10,1.45701
+KD Tree,gaussian,75,2097152,10,1.47991
+KD Tree,gaussian,100,2097152,10,1.44138
+KD Tree,gaussian,125,2097152,10,1.46624
+KD Tree,gaussian,150,2097152,10,1.46875
+KD Tree,gaussian,175,2097152,10,1.46158
+KD Tree,gaussian,200,2097152,10,1.4746
+Dumb,uniform,10,1024,2,0.00107389
+Dumb,uniform,25,1024,2,0.00108846
+Dumb,uniform,50,1024,2,0.00111453
+Dumb,uniform,75,1024,2,0.00110402
+Dumb,uniform,100,1024,2,0.00104003
+Dumb,uniform,125,1024,2,0.00106839
+Dumb,uniform,150,1024,2,0.00111176
+Dumb,uniform,175,1024,2,0.00108356
+Dumb,uniform,200,1024,2,0.00108589
+Buckets,uniform,10,1024,2,0.000211466
+Buckets,uniform,25,1024,2,0.000236808
+Buckets,uniform,50,1024,2,0.000151011
+Buckets,uniform,75,1024,2,0.000177541
+Buckets,uniform,100,1024,2,0.00103006
+Buckets,uniform,125,1024,2,0.000942075
+Buckets,uniform,150,1024,2,0.00267998
+Buckets,uniform,175,1024,2,0.00245869
+Buckets,uniform,200,1024,2,0.00236991
+Buckets,uniform,10,1024,3,8.18183e-05
+Buckets,uniform,25,1024,3,0.00115138
+Buckets,uniform,50,1024,3,0.00344851
+Buckets,uniform,75,1024,3,0.00340087
+Buckets,uniform,100,1024,3,0.00336882
+Buckets,uniform,125,1024,3,0.0032969
+Buckets,uniform,150,1024,3,0.00339883
+Buckets,uniform,175,1024,3,0.00340588
+Buckets,uniform,200,1024,3,0.00336285
+Buckets,uniform,10,1024,10,7.12051
+Buckets,uniform,25,1024,10,7.01695
+Buckets,uniform,50,1024,10,7.01563
+Buckets,uniform,75,1024,10,7.03725
+Buckets,uniform,100,1024,10,7.02038
+Buckets,uniform,125,1024,10,7.07812
+Buckets,uniform,150,1024,10,7.02155
+Buckets,uniform,175,1024,10,7.02271
+Buckets,uniform,200,1024,10,7.02138
+Quad Tree,uniform,10,1024,2,0.000314773
+Quad Tree,uniform,25,1024,2,0.000464636
+Quad Tree,uniform,50,1024,2,0.00077324
+Quad Tree,uniform,75,1024,2,0.000661821
+Quad Tree,uniform,100,1024,2,0.000822983
+Quad Tree,uniform,125,1024,2,0.00104068
+Quad Tree,uniform,150,1024,2,0.001105
+Quad Tree,uniform,175,1024,2,0.000822141
+Quad Tree,uniform,200,1024,2,0.00128402
+KD Tree,uniform,10,1024,2,0.000301345
+KD Tree,uniform,25,1024,2,0.000482192
+KD Tree,uniform,50,1024,2,0.000691845
+KD Tree,uniform,75,1024,2,0.00103458
+KD Tree,uniform,100,1024,2,0.00093803
+KD Tree,uniform,125,1024,2,0.00124198
+KD Tree,uniform,150,1024,2,0.00125105
+KD Tree,uniform,175,1024,2,0.000842586
+KD Tree,uniform,200,1024,2,0.00128458
+KD Tree,uniform,10,1024,3,0.000333166
+KD Tree,uniform,25,1024,3,0.000501613
+KD Tree,uniform,50,1024,3,0.000608019
+KD Tree,uniform,75,1024,3,0.000896496
+KD Tree,uniform,100,1024,3,0.00128261
+KD Tree,uniform,125,1024,3,0.00124685
+KD Tree,uniform,150,1024,3,0.00112716
+KD Tree,uniform,175,1024,3,0.00131552
+KD Tree,uniform,200,1024,3,0.00171263
+KD Tree,uniform,10,1024,10,0.000961808
+KD Tree,uniform,25,1024,10,0.00125714
+KD Tree,uniform,50,1024,10,0.00172953
+KD Tree,uniform,75,1024,10,0.00214072
+KD Tree,uniform,100,1024,10,0.00254808
+KD Tree,uniform,125,1024,10,0.0025808
+KD Tree,uniform,150,1024,10,0.0030326
+KD Tree,uniform,175,1024,10,0.00419638
+KD Tree,uniform,200,1024,10,0.00390569
+Dumb,uniform,10,2048,2,0.00243999
+Dumb,uniform,25,2048,2,0.0021846
+Dumb,uniform,50,2048,2,0.00291827
+Dumb,uniform,75,2048,2,0.0027006
+Dumb,uniform,100,2048,2,0.00240453
+Dumb,uniform,125,2048,2,0.00231297
+Dumb,uniform,150,2048,2,0.00239891
+Dumb,uniform,175,2048,2,0.00237294
+Dumb,uniform,200,2048,2,0.00234945
+Buckets,uniform,10,2048,2,0.000467827
+Buckets,uniform,25,2048,2,0.000311859
+Buckets,uniform,50,2048,2,0.000319939
+Buckets,uniform,75,2048,2,0.000438651
+Buckets,uniform,100,2048,2,0.00051029
+Buckets,uniform,125,2048,2,0.000467024
+Buckets,uniform,150,2048,2,0.000570388
+Buckets,uniform,175,2048,2,0.00352509
+Buckets,uniform,200,2048,2,0.00217509
+Buckets,uniform,10,2048,3,0.000145189
+Buckets,uniform,25,2048,3,0.000195048
+Buckets,uniform,50,2048,3,0.000197679
+Buckets,uniform,75,2048,3,0.00254706
+Buckets,uniform,100,2048,3,0.00736674
+Buckets,uniform,125,2048,3,0.00740473
+Buckets,uniform,150,2048,3,0.00730207
+Buckets,uniform,175,2048,3,0.00724668
+Buckets,uniform,200,2048,3,0.00717099
+Buckets,uniform,10,2048,10,7.1028
+Buckets,uniform,25,2048,10,7.0336
+Buckets,uniform,50,2048,10,7.07689
+Buckets,uniform,75,2048,10,7.03818
+Buckets,uniform,100,2048,10,7.03473
+Buckets,uniform,125,2048,10,7.03609
+Buckets,uniform,150,2048,10,7.03402
+Buckets,uniform,175,2048,10,7.03392
+Buckets,uniform,200,2048,10,7.03311
+Quad Tree,uniform,10,2048,2,0.000483251
+Quad Tree,uniform,25,2048,2,0.000759289
+Quad Tree,uniform,50,2048,2,0.00108683
+Quad Tree,uniform,75,2048,2,0.00120315
+Quad Tree,uniform,100,2048,2,0.00132182
+Quad Tree,uniform,125,2048,2,0.00177475
+Quad Tree,uniform,150,2048,2,0.00166783
+Quad Tree,uniform,175,2048,2,0.00216853
+Quad Tree,uniform,200,2048,2,0.00208388
+KD Tree,uniform,10,2048,2,0.000560258
+KD Tree,uniform,25,2048,2,0.000828163
+KD Tree,uniform,50,2048,2,0.000962874
+KD Tree,uniform,75,2048,2,0.000694444
+KD Tree,uniform,100,2048,2,0.00164254
+KD Tree,uniform,125,2048,2,0.00198516
+KD Tree,uniform,150,2048,2,0.00180294
+KD Tree,uniform,175,2048,2,0.0018044
+KD Tree,uniform,200,2048,2,0.00124057
+KD Tree,uniform,10,2048,3,0.000675799
+KD Tree,uniform,25,2048,3,0.000894689
+KD Tree,uniform,50,2048,3,0.00109068
+KD Tree,uniform,75,2048,3,0.00152138
+KD Tree,uniform,100,2048,3,0.00150328
+KD Tree,uniform,125,2048,3,0.0017371
+KD Tree,uniform,150,2048,3,0.00215241
+KD Tree,uniform,175,2048,3,0.00160827
+KD Tree,uniform,200,2048,3,0.00172501
+KD Tree,uniform,10,2048,10,0.00168681
+KD Tree,uniform,25,2048,10,0.00203925
+KD Tree,uniform,50,2048,10,0.00279118
+KD Tree,uniform,75,2048,10,0.00335006
+KD Tree,uniform,100,2048,10,0.00399341
+KD Tree,uniform,125,2048,10,0.00416987
+KD Tree,uniform,150,2048,10,0.00495787
+KD Tree,uniform,175,2048,10,0.00476975
+KD Tree,uniform,200,2048,10,0.0060022
+Dumb,uniform,10,4096,2,0.00519804
+Dumb,uniform,25,4096,2,0.00516725
+Dumb,uniform,50,4096,2,0.00518923
+Dumb,uniform,75,4096,2,0.00504698
+Dumb,uniform,100,4096,2,0.00500231
+Dumb,uniform,125,4096,2,0.00530215
+Dumb,uniform,150,4096,2,0.0051656
+Dumb,uniform,175,4096,2,0.00520282
+Dumb,uniform,200,4096,2,0.00527771
+Buckets,uniform,10,4096,2,0.000914744
+Buckets,uniform,25,4096,2,0.0011008
+Buckets,uniform,50,4096,2,0.000762697
+Buckets,uniform,75,4096,2,0.00118968
+Buckets,uniform,100,4096,2,0.000854454
+Buckets,uniform,125,4096,2,0.000897426
+Buckets,uniform,150,4096,2,0.00115423
+Buckets,uniform,175,4096,2,0.00106656
+Buckets,uniform,200,4096,2,0.00106826
+Buckets,uniform,10,4096,3,0.000345706
+Buckets,uniform,25,4096,3,0.000291528
+Buckets,uniform,50,4096,3,0.00561828
+Buckets,uniform,75,4096,3,0.00522155
+Buckets,uniform,100,4096,3,0.00561036
+Buckets,uniform,125,4096,3,0.0106406
+Buckets,uniform,150,4096,3,0.0155824
+Buckets,uniform,175,4096,3,0.0154632
+Buckets,uniform,200,4096,3,0.0156127
+Buckets,uniform,10,4096,10,7.10638
+Buckets,uniform,25,4096,10,7.06965
+Buckets,uniform,50,4096,10,7.07192
+Buckets,uniform,75,4096,10,7.06438
+Buckets,uniform,100,4096,10,7.06669
+Buckets,uniform,125,4096,10,7.0524
+Buckets,uniform,150,4096,10,7.07337
+Buckets,uniform,175,4096,10,7.06087
+Buckets,uniform,200,4096,10,7.05159
+Quad Tree,uniform,10,4096,2,0.000891914
+Quad Tree,uniform,25,4096,2,0.0012834
+Quad Tree,uniform,50,4096,2,0.00156422
+Quad Tree,uniform,75,4096,2,0.00241586
+Quad Tree,uniform,100,4096,2,0.00187599
+Quad Tree,uniform,125,4096,2,0.00219553
+Quad Tree,uniform,150,4096,2,0.00240588
+Quad Tree,uniform,175,4096,2,0.0032732
+Quad Tree,uniform,200,4096,2,0.00345264
+KD Tree,uniform,10,4096,2,0.000900341
+KD Tree,uniform,25,4096,2,0.00127125
+KD Tree,uniform,50,4096,2,0.00149094
+KD Tree,uniform,75,4096,2,0.00233069
+KD Tree,uniform,100,4096,2,0.00308922
+KD Tree,uniform,125,4096,2,0.00193705
+KD Tree,uniform,150,4096,2,0.0024532
+KD Tree,uniform,175,4096,2,0.00220818
+KD Tree,uniform,200,4096,2,0.00239207
+KD Tree,uniform,10,4096,3,0.00117385
+KD Tree,uniform,25,4096,3,0.00129373
+KD Tree,uniform,50,4096,3,0.00183569
+KD Tree,uniform,75,4096,3,0.00210774
+KD Tree,uniform,100,4096,3,0.00240618
+KD Tree,uniform,125,4096,3,0.00298858
+KD Tree,uniform,150,4096,3,0.00276525
+KD Tree,uniform,175,4096,3,0.00418461
+KD Tree,uniform,200,4096,3,0.0032059
+KD Tree,uniform,10,4096,10,0.0032264
+KD Tree,uniform,25,4096,10,0.00353945
+KD Tree,uniform,50,4096,10,0.00406557
+KD Tree,uniform,75,4096,10,0.00464383
+KD Tree,uniform,100,4096,10,0.00562885
+KD Tree,uniform,125,4096,10,0.00542562
+KD Tree,uniform,150,4096,10,0.0069962
+KD Tree,uniform,175,4096,10,0.00821086
+KD Tree,uniform,200,4096,10,0.00831444
+Dumb,uniform,10,8192,2,0.0113139
+Dumb,uniform,25,8192,2,0.0110564
+Dumb,uniform,50,8192,2,0.0111854
+Dumb,uniform,75,8192,2,0.0114022
+Dumb,uniform,100,8192,2,0.0111784
+Dumb,uniform,125,8192,2,0.0109444
+Dumb,uniform,150,8192,2,0.0114218
+Dumb,uniform,175,8192,2,0.0110242
+Dumb,uniform,200,8192,2,0.0112173
+Buckets,uniform,10,8192,2,0.00203091
+Buckets,uniform,25,8192,2,0.00184879
+Buckets,uniform,50,8192,2,0.00250621
+Buckets,uniform,75,8192,2,0.00223105
+Buckets,uniform,100,8192,2,0.00241507
+Buckets,uniform,125,8192,2,0.00244425
+Buckets,uniform,150,8192,2,0.00198795
+Buckets,uniform,175,8192,2,0.00169383
+Buckets,uniform,200,8192,2,0.00221551
+Buckets,uniform,10,8192,3,0.000579744
+Buckets,uniform,25,8192,3,0.000428578
+Buckets,uniform,50,8192,3,0.000404416
+Buckets,uniform,75,8192,3,0.000693455
+Buckets,uniform,100,8192,3,0.000571802
+Buckets,uniform,125,8192,3,0.000742941
+Buckets,uniform,150,8192,3,0.0114541
+Buckets,uniform,175,8192,3,0.0007772
+Buckets,uniform,200,8192,3,0.022033
+Buckets,uniform,10,8192,10,7.15022
+Buckets,uniform,25,8192,10,7.18251
+Buckets,uniform,50,8192,10,7.12948
+Buckets,uniform,75,8192,10,7.1181
+Buckets,uniform,100,8192,10,7.11714
+Buckets,uniform,125,8192,10,7.12483
+Buckets,uniform,150,8192,10,7.11504
+Buckets,uniform,175,8192,10,7.11882
+Buckets,uniform,200,8192,10,7.12119
+Quad Tree,uniform,10,8192,2,0.00187322
+Quad Tree,uniform,25,8192,2,0.00211342
+Quad Tree,uniform,50,8192,2,0.0019135
+Quad Tree,uniform,75,8192,2,0.00387446
+Quad Tree,uniform,100,8192,2,0.00428182
+Quad Tree,uniform,125,8192,2,0.00329311
+Quad Tree,uniform,150,8192,2,0.00427642
+Quad Tree,uniform,175,8192,2,0.00466396
+Quad Tree,uniform,200,8192,2,0.00491675
+KD Tree,uniform,10,8192,2,0.00190707
+KD Tree,uniform,25,8192,2,0.00269263
+KD Tree,uniform,50,8192,2,0.0025566
+KD Tree,uniform,75,8192,2,0.00295197
+KD Tree,uniform,100,8192,2,0.00387821
+KD Tree,uniform,125,8192,2,0.00390354
+KD Tree,uniform,150,8192,2,0.00383792
+KD Tree,uniform,175,8192,2,0.00368056
+KD Tree,uniform,200,8192,2,0.00761417
+KD Tree,uniform,10,8192,3,0.00218152
+KD Tree,uniform,25,8192,3,0.00224988
+KD Tree,uniform,50,8192,3,0.00308495
+KD Tree,uniform,75,8192,3,0.00293759
+KD Tree,uniform,100,8192,3,0.0040932
+KD Tree,uniform,125,8192,3,0.00393378
+KD Tree,uniform,150,8192,3,0.00426146
+KD Tree,uniform,175,8192,3,0.00465639
+KD Tree,uniform,200,8192,3,0.00390058
+KD Tree,uniform,10,8192,10,0.00591253
+KD Tree,uniform,25,8192,10,0.00645323
+KD Tree,uniform,50,8192,10,0.00692239
+KD Tree,uniform,75,8192,10,0.00834873
+KD Tree,uniform,100,8192,10,0.00909364
+KD Tree,uniform,125,8192,10,0.00973702
+KD Tree,uniform,150,8192,10,0.0107262
+KD Tree,uniform,175,8192,10,0.0106507
+KD Tree,uniform,200,8192,10,0.0114152
+Dumb,uniform,10,16384,2,0.0240813
+Dumb,uniform,25,16384,2,0.0244746
+Dumb,uniform,50,16384,2,0.0238891
+Dumb,uniform,75,16384,2,0.0236299
+Dumb,uniform,100,16384,2,0.024553
+Dumb,uniform,125,16384,2,0.0257666
+Dumb,uniform,150,16384,2,0.0311837
+Dumb,uniform,175,16384,2,0.0265235
+Dumb,uniform,200,16384,2,0.0257578
+Buckets,uniform,10,16384,2,0.00549994
+Buckets,uniform,25,16384,2,0.005053
+Buckets,uniform,50,16384,2,0.00526405
+Buckets,uniform,75,16384,2,0.00552587
+Buckets,uniform,100,16384,2,0.0045205
+Buckets,uniform,125,16384,2,0.00578194
+Buckets,uniform,150,16384,2,0.00457614
+Buckets,uniform,175,16384,2,0.011117
+Buckets,uniform,200,16384,2,0.00566858
+Buckets,uniform,10,16384,3,0.00153804
+Buckets,uniform,25,16384,3,0.00177632
+Buckets,uniform,50,16384,3,0.0019344
+Buckets,uniform,75,16384,3,0.00179795
+Buckets,uniform,100,16384,3,0.00165609
+Buckets,uniform,125,16384,3,0.00148791
+Buckets,uniform,150,16384,3,0.00149086
+Buckets,uniform,175,16384,3,0.00147663
+Buckets,uniform,200,16384,3,0.00138153
+Buckets,uniform,10,16384,10,7.33508
+Buckets,uniform,25,16384,10,7.3114
+Buckets,uniform,50,16384,10,7.25951
+Buckets,uniform,75,16384,10,7.26357
+Buckets,uniform,100,16384,10,7.23587
+Buckets,uniform,125,16384,10,7.23992
+Buckets,uniform,150,16384,10,7.23135
+Buckets,uniform,175,16384,10,7.25194
+Buckets,uniform,200,16384,10,7.25966
+Quad Tree,uniform,10,16384,2,0.00360372
+Quad Tree,uniform,25,16384,2,0.00432505
+Quad Tree,uniform,50,16384,2,0.00398204
+Quad Tree,uniform,75,16384,2,0.00466151
+Quad Tree,uniform,100,16384,2,0.0050716
+Quad Tree,uniform,125,16384,2,0.00684982
+Quad Tree,uniform,150,16384,2,0.00593049
+Quad Tree,uniform,175,16384,2,0.00744592
+Quad Tree,uniform,200,16384,2,0.00820962
+KD Tree,uniform,10,16384,2,0.00319721
+KD Tree,uniform,25,16384,2,0.00358882
+KD Tree,uniform,50,16384,2,0.00537795
+KD Tree,uniform,75,16384,2,0.00550319
+KD Tree,uniform,100,16384,2,0.00636751
+KD Tree,uniform,125,16384,2,0.00707517
+KD Tree,uniform,150,16384,2,0.00662527
+KD Tree,uniform,175,16384,2,0.00818433
+KD Tree,uniform,200,16384,2,0.00500823
+KD Tree,uniform,10,16384,3,0.00331637
+KD Tree,uniform,25,16384,3,0.00383818
+KD Tree,uniform,50,16384,3,0.0047745
+KD Tree,uniform,75,16384,3,0.00531265
+KD Tree,uniform,100,16384,3,0.00785832
+KD Tree,uniform,125,16384,3,0.00761063
+KD Tree,uniform,150,16384,3,0.0066764
+KD Tree,uniform,175,16384,3,0.00755315
+KD Tree,uniform,200,16384,3,0.00955236
+KD Tree,uniform,10,16384,10,0.0117004
+KD Tree,uniform,25,16384,10,0.0122631
+KD Tree,uniform,50,16384,10,0.0135178
+KD Tree,uniform,75,16384,10,0.0142824
+KD Tree,uniform,100,16384,10,0.0154822
+KD Tree,uniform,125,16384,10,0.0156939
+KD Tree,uniform,150,16384,10,0.0176277
+KD Tree,uniform,175,16384,10,0.0182478
+KD Tree,uniform,200,16384,10,0.0173541
+Dumb,uniform,10,32768,2,0.0510383
+Dumb,uniform,25,32768,2,0.0510874
+Dumb,uniform,50,32768,2,0.0534538
+Dumb,uniform,75,32768,2,0.0521714
+Dumb,uniform,100,32768,2,0.0510525
+Dumb,uniform,125,32768,2,0.051833
+Dumb,uniform,150,32768,2,0.0515029
+Dumb,uniform,175,32768,2,0.0513569
+Dumb,uniform,200,32768,2,0.0501855
+Buckets,uniform,10,32768,2,0.0120365
+Buckets,uniform,25,32768,2,0.00884635
+Buckets,uniform,50,32768,2,0.010225
+Buckets,uniform,75,32768,2,0.0114144
+Buckets,uniform,100,32768,2,0.00849696
+Buckets,uniform,125,32768,2,0.00993949
+Buckets,uniform,150,32768,2,0.00916819
+Buckets,uniform,175,32768,2,0.00976125
+Buckets,uniform,200,32768,2,0.0119033
+Buckets,uniform,10,32768,3,0.00483202
+Buckets,uniform,25,32768,3,0.00312206
+Buckets,uniform,50,32768,3,0.00273332
+Buckets,uniform,75,32768,3,0.00354387
+Buckets,uniform,100,32768,3,0.00149516
+Buckets,uniform,125,32768,3,0.00368834
+Buckets,uniform,150,32768,3,0.00333741
+Buckets,uniform,175,32768,3,0.00178158
+Buckets,uniform,200,32768,3,0.00378323
+Buckets,uniform,10,32768,10,7.55647
+Buckets,uniform,25,32768,10,7.51973
+Buckets,uniform,50,32768,10,7.53569
+Buckets,uniform,75,32768,10,7.52442
+Buckets,uniform,100,32768,10,7.51886
+Buckets,uniform,125,32768,10,7.50312
+Buckets,uniform,150,32768,10,7.51802
+Buckets,uniform,175,32768,10,7.54396
+Buckets,uniform,200,32768,10,7.52759
+Quad Tree,uniform,10,32768,2,0.00655105
+Quad Tree,uniform,25,32768,2,0.00795198
+Quad Tree,uniform,50,32768,2,0.00707718
+Quad Tree,uniform,75,32768,2,0.0100491
+Quad Tree,uniform,100,32768,2,0.0116861
+Quad Tree,uniform,125,32768,2,0.0119318
+Quad Tree,uniform,150,32768,2,0.0124555
+Quad Tree,uniform,175,32768,2,0.0129394
+Quad Tree,uniform,200,32768,2,0.0110863
+KD Tree,uniform,10,32768,2,0.00638854
+KD Tree,uniform,25,32768,2,0.0073512
+KD Tree,uniform,50,32768,2,0.0072938
+KD Tree,uniform,75,32768,2,0.0104293
+KD Tree,uniform,100,32768,2,0.0116834
+KD Tree,uniform,125,32768,2,0.0101484
+KD Tree,uniform,150,32768,2,0.0120036
+KD Tree,uniform,175,32768,2,0.011675
+KD Tree,uniform,200,32768,2,0.0158936
+KD Tree,uniform,10,32768,3,0.00778616
+KD Tree,uniform,25,32768,3,0.00801411
+KD Tree,uniform,50,32768,3,0.00965944
+KD Tree,uniform,75,32768,3,0.011062
+KD Tree,uniform,100,32768,3,0.010106
+KD Tree,uniform,125,32768,3,0.0128392
+KD Tree,uniform,150,32768,3,0.010137
+KD Tree,uniform,175,32768,3,0.0131364
+KD Tree,uniform,200,32768,3,0.0115465
+KD Tree,uniform,10,32768,10,0.0232114
+KD Tree,uniform,25,32768,10,0.0234044
+KD Tree,uniform,50,32768,10,0.0246531
+KD Tree,uniform,75,32768,10,0.0259676
+KD Tree,uniform,100,32768,10,0.0273941
+KD Tree,uniform,125,32768,10,0.0283624
+KD Tree,uniform,150,32768,10,0.0316535
+KD Tree,uniform,175,32768,10,0.0326419
+KD Tree,uniform,200,32768,10,0.0311921
+Dumb,uniform,10,65536,2,0.110046
+Dumb,uniform,25,65536,2,0.110568
+Dumb,uniform,50,65536,2,0.110266
+Dumb,uniform,75,65536,2,0.109992
+Dumb,uniform,100,65536,2,0.109007
+Dumb,uniform,125,65536,2,0.10947
+Dumb,uniform,150,65536,2,0.110029
+Dumb,uniform,175,65536,2,0.110368
+Dumb,uniform,200,65536,2,0.107318
+Buckets,uniform,10,65536,2,0.019704
+Buckets,uniform,25,65536,2,0.019332
+Buckets,uniform,50,65536,2,0.0253569
+Buckets,uniform,75,65536,2,0.0270453
+Buckets,uniform,100,65536,2,0.0228523
+Buckets,uniform,125,65536,2,0.0201138
+Buckets,uniform,150,65536,2,0.0217125
+Buckets,uniform,175,65536,2,0.0244178
+Buckets,uniform,200,65536,2,0.0172239
+Buckets,uniform,10,65536,3,0.00859464
+Buckets,uniform,25,65536,3,0.00448774
+Buckets,uniform,50,65536,3,0.0084524
+Buckets,uniform,75,65536,3,0.00718521
+Buckets,uniform,100,65536,3,0.00811006
+Buckets,uniform,125,65536,3,0.00744416
+Buckets,uniform,150,65536,3,0.00878172
+Buckets,uniform,175,65536,3,0.00908363
+Buckets,uniform,200,65536,3,0.00447096
+Buckets,uniform,10,65536,10,8.13082
+Buckets,uniform,25,65536,10,8.10632
+Buckets,uniform,50,65536,10,8.07521
+Buckets,uniform,75,65536,10,8.06881
+Buckets,uniform,100,65536,10,8.07482
+Buckets,uniform,125,65536,10,8.07323
+Buckets,uniform,150,65536,10,8.07494
+Buckets,uniform,175,65536,10,8.08661
+Buckets,uniform,200,65536,10,8.08637
+Quad Tree,uniform,10,65536,2,0.0119214
+Quad Tree,uniform,25,65536,2,0.0140672
+Quad Tree,uniform,50,65536,2,0.015462
+Quad Tree,uniform,75,65536,2,0.0156894
+Quad Tree,uniform,100,65536,2,0.0191706
+Quad Tree,uniform,125,65536,2,0.0177491
+Quad Tree,uniform,150,65536,2,0.0189888
+Quad Tree,uniform,175,65536,2,0.0230517
+Quad Tree,uniform,200,65536,2,0.0228611
+KD Tree,uniform,10,65536,2,0.00982013
+KD Tree,uniform,25,65536,2,0.0126476
+KD Tree,uniform,50,65536,2,0.0159073
+KD Tree,uniform,75,65536,2,0.0163369
+KD Tree,uniform,100,65536,2,0.0186399
+KD Tree,uniform,125,65536,2,0.0155505
+KD Tree,uniform,150,65536,2,0.0208832
+KD Tree,uniform,175,65536,2,0.021404
+KD Tree,uniform,200,65536,2,0.0204625
+KD Tree,uniform,10,65536,3,0.01549
+KD Tree,uniform,25,65536,3,0.0158694
+KD Tree,uniform,50,65536,3,0.0166519
+KD Tree,uniform,75,65536,3,0.0178611
+KD Tree,uniform,100,65536,3,0.0185749
+KD Tree,uniform,125,65536,3,0.0195317
+KD Tree,uniform,150,65536,3,0.0199726
+KD Tree,uniform,175,65536,3,0.0219585
+KD Tree,uniform,200,65536,3,0.023038
+KD Tree,uniform,10,65536,10,0.0458101
+KD Tree,uniform,25,65536,10,0.0473375
+KD Tree,uniform,50,65536,10,0.048352
+KD Tree,uniform,75,65536,10,0.0494248
+KD Tree,uniform,100,65536,10,0.0475965
+KD Tree,uniform,125,65536,10,0.0509506
+KD Tree,uniform,150,65536,10,0.0530257
+KD Tree,uniform,175,65536,10,0.0526837
+KD Tree,uniform,200,65536,10,0.0574115
+Dumb,uniform,10,131072,2,0.232323
+Dumb,uniform,25,131072,2,0.233642
+Dumb,uniform,50,131072,2,0.23313
+Dumb,uniform,75,131072,2,0.2348
+Dumb,uniform,100,131072,2,0.235001
+Dumb,uniform,125,131072,2,0.233959
+Dumb,uniform,150,131072,2,0.232504
+Dumb,uniform,175,131072,2,0.231399
+Dumb,uniform,200,131072,2,0.230013
+Buckets,uniform,10,131072,2,0.0476888
+Buckets,uniform,25,131072,2,0.0401161
+Buckets,uniform,50,131072,2,0.0536072
+Buckets,uniform,75,131072,2,0.0489563
+Buckets,uniform,100,131072,2,0.0501425
+Buckets,uniform,125,131072,2,0.0474853
+Buckets,uniform,150,131072,2,0.0451776
+Buckets,uniform,175,131072,2,0.0377727
+Buckets,uniform,200,131072,2,0.0443185
+Buckets,uniform,10,131072,3,0.011594
+Buckets,uniform,25,131072,3,0.018366
+Buckets,uniform,50,131072,3,0.010755
+Buckets,uniform,75,131072,3,0.0187329
+Buckets,uniform,100,131072,3,0.0159399
+Buckets,uniform,125,131072,3,0.020655
+Buckets,uniform,150,131072,3,0.0136611
+Buckets,uniform,175,131072,3,0.015327
+Buckets,uniform,200,131072,3,0.0102504
+Buckets,uniform,10,131072,10,9.39056
+Buckets,uniform,25,131072,10,9.29989
+Buckets,uniform,50,131072,10,9.26927
+Buckets,uniform,75,131072,10,9.27478
+Buckets,uniform,100,131072,10,9.27107
+Buckets,uniform,125,131072,10,9.30511
+Buckets,uniform,150,131072,10,9.29025
+Buckets,uniform,175,131072,10,9.26921
+Buckets,uniform,200,131072,10,9.29828
+Quad Tree,uniform,10,131072,2,0.024644
+Quad Tree,uniform,25,131072,2,0.0260736
+Quad Tree,uniform,50,131072,2,0.0290591
+Quad Tree,uniform,75,131072,2,0.0286599
+Quad Tree,uniform,100,131072,2,0.0313864
+Quad Tree,uniform,125,131072,2,0.0367835
+Quad Tree,uniform,150,131072,2,0.0329042
+Quad Tree,uniform,175,131072,2,0.0395962
+Quad Tree,uniform,200,131072,2,0.0415179
+KD Tree,uniform,10,131072,2,0.0217867
+KD Tree,uniform,25,131072,2,0.023976
+KD Tree,uniform,50,131072,2,0.0274236
+KD Tree,uniform,75,131072,2,0.0300979
+KD Tree,uniform,100,131072,2,0.0330345
+KD Tree,uniform,125,131072,2,0.0314209
+KD Tree,uniform,150,131072,2,0.0388415
+KD Tree,uniform,175,131072,2,0.0383055
+KD Tree,uniform,200,131072,2,0.0399539
+KD Tree,uniform,10,131072,3,0.0251745
+KD Tree,uniform,25,131072,3,0.0313796
+KD Tree,uniform,50,131072,3,0.0332442
+KD Tree,uniform,75,131072,3,0.0341749
+KD Tree,uniform,100,131072,3,0.0334795
+KD Tree,uniform,125,131072,3,0.0305309
+KD Tree,uniform,150,131072,3,0.0334152
+KD Tree,uniform,175,131072,3,0.037157
+KD Tree,uniform,200,131072,3,0.0395054
+KD Tree,uniform,10,131072,10,0.0917173
+KD Tree,uniform,25,131072,10,0.0923645
+KD Tree,uniform,50,131072,10,0.092954
+KD Tree,uniform,75,131072,10,0.0938141
+KD Tree,uniform,100,131072,10,0.0972728
+KD Tree,uniform,125,131072,10,0.0978879
+KD Tree,uniform,150,131072,10,0.0935569
+KD Tree,uniform,175,131072,10,0.100727
+KD Tree,uniform,200,131072,10,0.100187
+Dumb,uniform,10,262144,2,0.496395
+Dumb,uniform,25,262144,2,0.496475
+Dumb,uniform,50,262144,2,0.490581
+Dumb,uniform,75,262144,2,0.49331
+Dumb,uniform,100,262144,2,0.496876
+Dumb,uniform,125,262144,2,0.492022
+Dumb,uniform,150,262144,2,0.489953
+Dumb,uniform,175,262144,2,0.494566
+Dumb,uniform,200,262144,2,0.495746
+Buckets,uniform,10,262144,2,0.0978809
+Buckets,uniform,25,262144,2,0.119222
+Buckets,uniform,50,262144,2,0.102291
+Buckets,uniform,75,262144,2,0.104798
+Buckets,uniform,100,262144,2,0.101461
+Buckets,uniform,125,262144,2,0.102302
+Buckets,uniform,150,262144,2,0.100369
+Buckets,uniform,175,262144,2,0.0967122
+Buckets,uniform,200,262144,2,0.0812792
+Buckets,uniform,10,262144,3,0.034038
+Buckets,uniform,25,262144,3,0.0317525
+Buckets,uniform,50,262144,3,0.0351387
+Buckets,uniform,75,262144,3,0.0254221
+Buckets,uniform,100,262144,3,0.0327483
+Buckets,uniform,125,262144,3,0.0303366
+Buckets,uniform,150,262144,3,0.0319745
+Buckets,uniform,175,262144,3,0.0368266
+Buckets,uniform,200,262144,3,0.0297401
+Buckets,uniform,10,262144,10,11.784
+Buckets,uniform,25,262144,10,11.8046
+Buckets,uniform,50,262144,10,11.8393
+Buckets,uniform,75,262144,10,11.746
+Buckets,uniform,100,262144,10,11.7815
+Buckets,uniform,125,262144,10,11.8686
+Buckets,uniform,150,262144,10,11.9158
+Buckets,uniform,175,262144,10,11.8137
+Buckets,uniform,200,262144,10,11.8416
+Quad Tree,uniform,10,262144,2,0.0466293
+Quad Tree,uniform,25,262144,2,0.0489462
+Quad Tree,uniform,50,262144,2,0.0532195
+Quad Tree,uniform,75,262144,2,0.0561022
+Quad Tree,uniform,100,262144,2,0.0589478
+Quad Tree,uniform,125,262144,2,0.0559754
+Quad Tree,uniform,150,262144,2,0.0560829
+Quad Tree,uniform,175,262144,2,0.0636482
+Quad Tree,uniform,200,262144,2,0.0606605
+KD Tree,uniform,10,262144,2,0.0410641
+KD Tree,uniform,25,262144,2,0.0485699
+KD Tree,uniform,50,262144,2,0.0528609
+KD Tree,uniform,75,262144,2,0.0534587
+KD Tree,uniform,100,262144,2,0.0569292
+KD Tree,uniform,125,262144,2,0.0629774
+KD Tree,uniform,150,262144,2,0.0622694
+KD Tree,uniform,175,262144,2,0.0609537
+KD Tree,uniform,200,262144,2,0.0618852
+KD Tree,uniform,10,262144,3,0.0598581
+KD Tree,uniform,25,262144,3,0.0619796
+KD Tree,uniform,50,262144,3,0.0631185
+KD Tree,uniform,75,262144,3,0.0641565
+KD Tree,uniform,100,262144,3,0.0609363
+KD Tree,uniform,125,262144,3,0.0611875
+KD Tree,uniform,150,262144,3,0.0678667
+KD Tree,uniform,175,262144,3,0.075815
+KD Tree,uniform,200,262144,3,0.0650729
+KD Tree,uniform,10,262144,10,0.18467
+KD Tree,uniform,25,262144,10,0.184456
+KD Tree,uniform,50,262144,10,0.183551
+KD Tree,uniform,75,262144,10,0.187112
+KD Tree,uniform,100,262144,10,0.204018
+KD Tree,uniform,125,262144,10,0.197236
+KD Tree,uniform,150,262144,10,0.19313
+KD Tree,uniform,175,262144,10,0.194197
+KD Tree,uniform,200,262144,10,0.192418
+Dumb,uniform,10,524288,2,1.03848
+Dumb,uniform,25,524288,2,1.04707
+Dumb,uniform,50,524288,2,1.05498
+Dumb,uniform,75,524288,2,1.05714
+Dumb,uniform,100,524288,2,1.04719
+Dumb,uniform,125,524288,2,1.03999
+Dumb,uniform,150,524288,2,1.04592
+Dumb,uniform,175,524288,2,1.04261
+Dumb,uniform,200,524288,2,1.03331
+Buckets,uniform,10,524288,2,0.224363
+Buckets,uniform,25,524288,2,0.208934
+Buckets,uniform,50,524288,2,0.214
+Buckets,uniform,75,524288,2,0.242902
+Buckets,uniform,100,524288,2,0.224483
+Buckets,uniform,125,524288,2,0.232939
+Buckets,uniform,150,524288,2,0.243291
+Buckets,uniform,175,524288,2,0.219507
+Buckets,uniform,200,524288,2,0.196323
+Buckets,uniform,10,524288,3,0.0634982
+Buckets,uniform,25,524288,3,0.0740921
+Buckets,uniform,50,524288,3,0.0837803
+Buckets,uniform,75,524288,3,0.0867347
+Buckets,uniform,100,524288,3,0.0703069
+Buckets,uniform,125,524288,3,0.0760238
+Buckets,uniform,150,524288,3,0.0765007
+Buckets,uniform,175,524288,3,0.0682259
+Buckets,uniform,200,524288,3,0.0738231
+Buckets,uniform,10,524288,10,17.0201
+Buckets,uniform,25,524288,10,17.0991
+Buckets,uniform,50,524288,10,17.0774
+Buckets,uniform,75,524288,10,17.0773
+Buckets,uniform,100,524288,10,17.2845
+Buckets,uniform,125,524288,10,17.1808
+Buckets,uniform,150,524288,10,17.2669
+Buckets,uniform,175,524288,10,17.1997
+Buckets,uniform,200,524288,10,17.0097
+Quad Tree,uniform,10,524288,2,0.0935945
+Quad Tree,uniform,25,524288,2,0.0963632
+Quad Tree,uniform,50,524288,2,0.101898
+Quad Tree,uniform,75,524288,2,0.103757
+Quad Tree,uniform,100,524288,2,0.108598
+Quad Tree,uniform,125,524288,2,0.106297
+Quad Tree,uniform,150,524288,2,0.119694
+Quad Tree,uniform,175,524288,2,0.120161
+Quad Tree,uniform,200,524288,2,0.121698
+KD Tree,uniform,10,524288,2,0.0907745
+KD Tree,uniform,25,524288,2,0.0895944
+KD Tree,uniform,50,524288,2,0.10126
+KD Tree,uniform,75,524288,2,0.101035
+KD Tree,uniform,100,524288,2,0.110583
+KD Tree,uniform,125,524288,2,0.10033
+KD Tree,uniform,150,524288,2,0.106974
+KD Tree,uniform,175,524288,2,0.112395
+KD Tree,uniform,200,524288,2,0.126265
+KD Tree,uniform,10,524288,3,0.116476
+KD Tree,uniform,25,524288,3,0.117294
+KD Tree,uniform,50,524288,3,0.109642
+KD Tree,uniform,75,524288,3,0.121206
+KD Tree,uniform,100,524288,3,0.126218
+KD Tree,uniform,125,524288,3,0.12249
+KD Tree,uniform,150,524288,3,0.135213
+KD Tree,uniform,175,524288,3,0.12336
+KD Tree,uniform,200,524288,3,0.135738
+KD Tree,uniform,10,524288,10,0.366145
+KD Tree,uniform,25,524288,10,0.366008
+KD Tree,uniform,50,524288,10,0.371012
+KD Tree,uniform,75,524288,10,0.36579
+KD Tree,uniform,100,524288,10,0.360864
+KD Tree,uniform,125,524288,10,0.377377
+KD Tree,uniform,150,524288,10,0.378067
+KD Tree,uniform,175,524288,10,0.373152
+KD Tree,uniform,200,524288,10,0.376135
+Dumb,uniform,10,1048576,2,2.19378
+Dumb,uniform,25,1048576,2,2.1805
+Dumb,uniform,50,1048576,2,2.21343
+Dumb,uniform,75,1048576,2,2.19175
+Dumb,uniform,100,1048576,2,2.20064
+Dumb,uniform,125,1048576,2,2.1936
+Dumb,uniform,150,1048576,2,2.1892
+Dumb,uniform,175,1048576,2,2.19303
+Dumb,uniform,200,1048576,2,2.20457
+Buckets,uniform,10,1048576,2,0.367619
+Buckets,uniform,25,1048576,2,0.419966
+Buckets,uniform,50,1048576,2,0.551089
+Buckets,uniform,75,1048576,2,0.459284
+Buckets,uniform,100,1048576,2,0.317711
+Buckets,uniform,125,1048576,2,0.531868
+Buckets,uniform,150,1048576,2,0.472799
+Buckets,uniform,175,1048576,2,0.472344
+Buckets,uniform,200,1048576,2,0.542237
+Buckets,uniform,10,1048576,3,0.143351
+Buckets,uniform,25,1048576,3,0.15183
+Buckets,uniform,50,1048576,3,0.109643
+Buckets,uniform,75,1048576,3,0.187779
+Buckets,uniform,100,1048576,3,0.123956
+Buckets,uniform,125,1048576,3,0.181535
+Buckets,uniform,150,1048576,3,0.17905
+Buckets,uniform,175,1048576,3,0.158098
+Buckets,uniform,200,1048576,3,0.146028
+Buckets,uniform,10,1048576,10,28.0951
+Buckets,uniform,25,1048576,10,28.0134
+Buckets,uniform,50,1048576,10,28.1624
+Buckets,uniform,75,1048576,10,28.1333
+Buckets,uniform,100,1048576,10,28.2519
+Buckets,uniform,125,1048576,10,28.2416
+Buckets,uniform,150,1048576,10,28.6676
+Buckets,uniform,175,1048576,10,28.1437
+Buckets,uniform,200,1048576,10,28.5787
+Quad Tree,uniform,10,1048576,2,0.17698
+Quad Tree,uniform,25,1048576,2,0.174379
+Quad Tree,uniform,50,1048576,2,0.189797
+Quad Tree,uniform,75,1048576,2,0.188181
+Quad Tree,uniform,100,1048576,2,0.183453
+Quad Tree,uniform,125,1048576,2,0.209869
+Quad Tree,uniform,150,1048576,2,0.223364
+Quad Tree,uniform,175,1048576,2,0.199362
+Quad Tree,uniform,200,1048576,2,0.203085
+KD Tree,uniform,10,1048576,2,0.180763
+KD Tree,uniform,25,1048576,2,0.17763
+KD Tree,uniform,50,1048576,2,0.186255
+KD Tree,uniform,75,1048576,2,0.198407
+KD Tree,uniform,100,1048576,2,0.190813
+KD Tree,uniform,125,1048576,2,0.207266
+KD Tree,uniform,150,1048576,2,0.206877
+KD Tree,uniform,175,1048576,2,0.209217
+KD Tree,uniform,200,1048576,2,0.225734
+KD Tree,uniform,10,1048576,3,0.240719
+KD Tree,uniform,25,1048576,3,0.231715
+KD Tree,uniform,50,1048576,3,0.241244
+KD Tree,uniform,75,1048576,3,0.241016
+KD Tree,uniform,100,1048576,3,0.231536
+KD Tree,uniform,125,1048576,3,0.218678
+KD Tree,uniform,150,1048576,3,0.254967
+KD Tree,uniform,175,1048576,3,0.259886
+KD Tree,uniform,200,1048576,3,0.244975
+KD Tree,uniform,10,1048576,10,0.738466
+KD Tree,uniform,25,1048576,10,0.731506
+KD Tree,uniform,50,1048576,10,0.728332
+KD Tree,uniform,75,1048576,10,0.735069
+KD Tree,uniform,100,1048576,10,0.737547
+KD Tree,uniform,125,1048576,10,0.729901
+KD Tree,uniform,150,1048576,10,0.712449
+KD Tree,uniform,175,1048576,10,0.741324
+KD Tree,uniform,200,1048576,10,0.735922
+Dumb,uniform,10,2097152,2,4.52763
+Dumb,uniform,25,2097152,2,4.59824
+Dumb,uniform,50,2097152,2,4.59413
+Dumb,uniform,75,2097152,2,4.63814
+Dumb,uniform,100,2097152,2,4.58578
+Dumb,uniform,125,2097152,2,4.61791
+Dumb,uniform,150,2097152,2,4.5809
+Dumb,uniform,175,2097152,2,4.57692
+Dumb,uniform,200,2097152,2,4.57437
+Buckets,uniform,10,2097152,2,1.10218
+Buckets,uniform,25,2097152,2,1.02178
+Buckets,uniform,50,2097152,2,1.01135
+Buckets,uniform,75,2097152,2,0.88539
+Buckets,uniform,100,2097152,2,1.03317
+Buckets,uniform,125,2097152,2,0.952847
+Buckets,uniform,150,2097152,2,1.05954
+Buckets,uniform,175,2097152,2,0.879892
+Buckets,uniform,200,2097152,2,0.973199
+Buckets,uniform,10,2097152,3,0.255655
+Buckets,uniform,25,2097152,3,0.399859
+Buckets,uniform,50,2097152,3,0.317221
+Buckets,uniform,75,2097152,3,0.325101
+Buckets,uniform,100,2097152,3,0.265543
+Buckets,uniform,125,2097152,3,0.334829
+Buckets,uniform,150,2097152,3,0.319424
+Buckets,uniform,175,2097152,3,0.339797
+Buckets,uniform,200,2097152,3,0.331076
+Buckets,uniform,10,2097152,10,51.5989
+Buckets,uniform,25,2097152,10,51.5963
+Buckets,uniform,50,2097152,10,51.4027
+Buckets,uniform,75,2097152,10,51.5393
+Buckets,uniform,100,2097152,10,51.2529
+Buckets,uniform,125,2097152,10,51.8224
+Buckets,uniform,150,2097152,10,51.2017
+Buckets,uniform,175,2097152,10,51.4633
+Buckets,uniform,200,2097152,10,52.1893
+Quad Tree,uniform,10,2097152,2,0.364414
+Quad Tree,uniform,25,2097152,2,0.369151
+Quad Tree,uniform,50,2097152,2,0.380556
+Quad Tree,uniform,75,2097152,2,0.367231
+Quad Tree,uniform,100,2097152,2,0.394574
+Quad Tree,uniform,125,2097152,2,0.4093
+Quad Tree,uniform,150,2097152,2,0.426871
+Quad Tree,uniform,175,2097152,2,0.401797
+Quad Tree,uniform,200,2097152,2,0.405873
+KD Tree,uniform,10,2097152,2,0.321104
+KD Tree,uniform,25,2097152,2,0.364586
+KD Tree,uniform,50,2097152,2,0.34227
+KD Tree,uniform,75,2097152,2,0.361711
+KD Tree,uniform,100,2097152,2,0.392646
+KD Tree,uniform,125,2097152,2,0.350398
+KD Tree,uniform,150,2097152,2,0.391196
+KD Tree,uniform,175,2097152,2,0.392767
+KD Tree,uniform,200,2097152,2,0.376806
+KD Tree,uniform,10,2097152,3,0.476338
+KD Tree,uniform,25,2097152,3,0.454593
+KD Tree,uniform,50,2097152,3,0.414765
+KD Tree,uniform,75,2097152,3,0.461623
+KD Tree,uniform,100,2097152,3,0.49856
+KD Tree,uniform,125,2097152,3,0.486502
+KD Tree,uniform,150,2097152,3,0.485003
+KD Tree,uniform,175,2097152,3,0.476643
+KD Tree,uniform,200,2097152,3,0.464208
+KD Tree,uniform,10,2097152,10,1.4578
+KD Tree,uniform,25,2097152,10,1.46207
+KD Tree,uniform,50,2097152,10,1.45505
+KD Tree,uniform,75,2097152,10,1.37671
+KD Tree,uniform,100,2097152,10,1.45845
+KD Tree,uniform,125,2097152,10,1.45522
+KD Tree,uniform,150,2097152,10,1.42731
+KD Tree,uniform,175,2097152,10,1.46352
+KD Tree,uniform,200,2097152,10,1.46988

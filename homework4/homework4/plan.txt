@@ -1,0 +1,16 @@
+
+D	N	K(neighbors) 	Time		Datastructure
+2	100	3		0.000015	Bucket
+2	1000	3		0.00011		Bucket
+2	1000	10		0.0010		Bucket
+3	100	3		0.00017		Tree
+
+
+Expected run time 
+Better than n log n
+K log n
+
+Ols
+Filter n and dim
+Runtime 
+Np.log(n)
